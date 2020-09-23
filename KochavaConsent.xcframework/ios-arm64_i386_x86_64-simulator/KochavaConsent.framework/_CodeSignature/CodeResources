@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/KVAConsentProduct.h</key>
 		<data>
-		qBKRrDJnxsYMHpmGTcXw/cgvDLM=
+		IuHgmZBz3zx+bhRTVXVRyxypCaA=
 		</data>
 		<key>Headers/KVAUSPrivacy.h</key>
 		<data>
@@ -34,31 +34,19 @@
 		</data>
 		<key>Headers/KochavaConsent.h</key>
 		<data>
-		UNjOjj9SQ+jgLgG0gUrfJvnGCJM=
+		OO3zbLf2Ax997sYiGDGULWaQiag=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5fX8v/jv0k8rkfQXXyy+FFlBEdQ=
-		</data>
-		<key>KVABoolAdapterTableViewCell.nib</key>
-		<data>
-		bQH37rm/Lie85C6Ol6Yz7nkDLIQ=
+		VIp41/eZMa0RDGnCw7pwGuAso0A=
 		</data>
 		<key>KVAConsentDialogViewController.nib/objects-11.0+.nib</key>
 		<data>
-		2Jl9MJ03tJrad/xuC7VCPVuKkx8=
+		lqvGDdCSW4ZoMc9DhaAw7ylRIvg=
 		</data>
 		<key>KVAConsentDialogViewController.nib/runtime.nib</key>
 		<data>
-		jwcmpaMn9JXyCUXhmYyiphL2FtY=
-		</data>
-		<key>KVAImageTableViewCell.nib</key>
-		<data>
-		TYvorJRoDQzavUllePzIVMltgy8=
-		</data>
-		<key>KVATextTableViewCell.nib</key>
-		<data>
-		mmVVUY826dMkG9qIHv0shJ0SPQE=
+		UB4mnurZ/vPSNBUhJ+RMbU4pO74=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -115,11 +103,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qBKRrDJnxsYMHpmGTcXw/cgvDLM=
+			IuHgmZBz3zx+bhRTVXVRyxypCaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XmiK3P9N+KuZH81e6dPxoO+9iraWfR/GS9TIc11TiJU=
+			4tfBCQhlKm47zYACTCsDRp8Y44CQfq8+eGnKOnmWyLc=
 			</data>
 		</dict>
 		<key>Headers/KVAUSPrivacy.h</key>
@@ -148,66 +136,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UNjOjj9SQ+jgLgG0gUrfJvnGCJM=
+			OO3zbLf2Ax997sYiGDGULWaQiag=
 			</data>
 			<key>hash2</key>
 			<data>
-			vo1X1bBVngliMAg0NQzuuKHEnbLMr5lpUS8OinO4294=
-			</data>
-		</dict>
-		<key>KVABoolAdapterTableViewCell.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bQH37rm/Lie85C6Ol6Yz7nkDLIQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			tHNbxI344FWtn4/T8lXrWg95NLmun/zRpUvWQEN2heU=
+			A9ZHDybd72mbsKL6859BEx8LoiAIm1ruZZJhB2Ad2p0=
 			</data>
 		</dict>
 		<key>KVAConsentDialogViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2Jl9MJ03tJrad/xuC7VCPVuKkx8=
+			lqvGDdCSW4ZoMc9DhaAw7ylRIvg=
 			</data>
 			<key>hash2</key>
 			<data>
-			QsoNQZs5DqiWbxb3Mu+H/a7hlv5YDH+8UZR4CmrJSJw=
+			EiDAywAf9KO+z7shTEfAydfV8WaMM4si37vwl3WXDzM=
 			</data>
 		</dict>
 		<key>KVAConsentDialogViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jwcmpaMn9JXyCUXhmYyiphL2FtY=
+			UB4mnurZ/vPSNBUhJ+RMbU4pO74=
 			</data>
 			<key>hash2</key>
 			<data>
-			qs0reJ1kJTPWhNeqOJasx/HAFecL+lDzbHa+4rF5LKE=
-			</data>
-		</dict>
-		<key>KVAImageTableViewCell.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TYvorJRoDQzavUllePzIVMltgy8=
-			</data>
-			<key>hash2</key>
-			<data>
-			u2o+tHJ/PmQphhe0948muCMnFE3LR3W4NHAQ4hqi2Ms=
-			</data>
-		</dict>
-		<key>KVATextTableViewCell.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mmVVUY826dMkG9qIHv0shJ0SPQE=
-			</data>
-			<key>hash2</key>
-			<data>
-			XG9std1eBpyy/EGUzEQwTLNrn9nwlaIGB0pf64mSSss=
+			bi3pj7tyGjgPZXAq0/glKfFTdVP/B9a5MWcHLV2rCHw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

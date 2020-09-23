@@ -6,23 +6,11 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		FlkTuet+Ob7ZXPVC9OvaLuDconk=
-		</data>
-		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
-		<data>
-		6mNGaHaZqEQV4G/h7rnHMD7pGzc=
+		GxFClwMgkxdDiDRH6yiByD/ijuI=
 		</data>
 		<key>Resources/KVAConsentDialogViewController.nib</key>
 		<data>
-		HfZrO95iURBIucNeFajL5A8DeJA=
-		</data>
-		<key>Resources/KVAImageTableViewCell.nib</key>
-		<data>
-		IrZqLZEoqhZysM4ky9q6byL+Smc=
-		</data>
-		<key>Resources/KVATextTableViewCell.nib</key>
-		<data>
-		zLxwJYLPli8tnYylfFjenFHYSb0=
+		j3iUhE7tY7iMzsB6cRbtG01gMuA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmiK3P9N+KuZH81e6dPxoO+9iraWfR/GS9TIc11TiJU=
+			4tfBCQhlKm47zYACTCsDRp8Y44CQfq8+eGnKOnmWyLc=
 			</data>
 		</dict>
 		<key>Headers/KVAUSPrivacy.h</key>
@@ -80,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vo1X1bBVngliMAg0NQzuuKHEnbLMr5lpUS8OinO4294=
+			A9ZHDybd72mbsKL6859BEx8LoiAIm1ruZZJhB2Ad2p0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -94,35 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q+G+M//RaS+POHigxoDAKuB4NwSKapC9XUKnLdichCg=
-			</data>
-		</dict>
-		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I07+FmcdAHRIiEJ7geGnM5eufWCbGPh67neTmb/dw1w=
+			Km4/jeYtd3BppMMswvXYjtyQ2lIUKmhyQn2xB2/ks0c=
 			</data>
 		</dict>
 		<key>Resources/KVAConsentDialogViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/ZuERr/yhWC/s5xEA00sRrArvBcdONpjnfffyfKDss=
-			</data>
-		</dict>
-		<key>Resources/KVAImageTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			07/7r6vnp64BPgbmjJW9lG96gJL8n+2+PxzqsQErMxU=
-			</data>
-		</dict>
-		<key>Resources/KVATextTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uIk2I/zsvE/RnBZYuzfK/6XavlwWJpOtu7YfEq7rnTc=
+			x8eJLzBeQkz/DFUiouRR29BXAKCQ02ZiTlVwpprpj9g=
 			</data>
 		</dict>
 	</dict>

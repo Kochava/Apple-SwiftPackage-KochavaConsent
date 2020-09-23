@@ -4,6 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/KochavaUI.framework/Info.plist</key>
+		<data>
+		9kRaCxQJJzvV9rKt9PsGfJH/ZaY=
+		</data>
+		<key>Frameworks/KochavaUI.framework/KochavaUI</key>
+		<data>
+		e6HV1hVS+kNvRza6J8jjCiWSBXc=
+		</data>
+		<key>Frameworks/KochavaUI.framework/_CodeSignature/CodeResources</key>
+		<data>
+		3su6i+1eOVvNrCuUsSO61tjQiPc=
+		</data>
 		<key>Headers/KVAConsentAuditEntry.h</key>
 		<data>
 		c4zQi4yVnRW6kd2KYo312xKpu94=
@@ -18,7 +30,7 @@
 		</data>
 		<key>Headers/KVAConsentProduct.h</key>
 		<data>
-		qBKRrDJnxsYMHpmGTcXw/cgvDLM=
+		IuHgmZBz3zx+bhRTVXVRyxypCaA=
 		</data>
 		<key>Headers/KVAUSPrivacy.h</key>
 		<data>
@@ -30,11 +42,11 @@
 		</data>
 		<key>Headers/KochavaConsent.h</key>
 		<data>
-		UNjOjj9SQ+jgLgG0gUrfJvnGCJM=
+		OO3zbLf2Ax997sYiGDGULWaQiag=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hu4VCcCzKc30Uv/RPTG5REo/Vsk=
+		2TeEa5FVX1LBqjLimT+DVcnnjR8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,6 +55,39 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/KochavaUI.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9kRaCxQJJzvV9rKt9PsGfJH/ZaY=
+			</data>
+			<key>hash2</key>
+			<data>
+			8s1EBeTQyJbW8tlKiTbiSe6kbwGQRLE8TD8NfYqzEcs=
+			</data>
+		</dict>
+		<key>Frameworks/KochavaUI.framework/KochavaUI</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e6HV1hVS+kNvRza6J8jjCiWSBXc=
+			</data>
+			<key>hash2</key>
+			<data>
+			LLQT0LBP9TzfINpFdfLt6ohScAWyiJCXyOsN96MsmIc=
+			</data>
+		</dict>
+		<key>Frameworks/KochavaUI.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3su6i+1eOVvNrCuUsSO61tjQiPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			biV18dv/mO3zTt9/qB3H9NIS3AdDstPp2gC6kxHMNTg=
+			</data>
+		</dict>
 		<key>Headers/KVAConsentAuditEntry.h</key>
 		<dict>
 			<key>hash</key>
@@ -80,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qBKRrDJnxsYMHpmGTcXw/cgvDLM=
+			IuHgmZBz3zx+bhRTVXVRyxypCaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XmiK3P9N+KuZH81e6dPxoO+9iraWfR/GS9TIc11TiJU=
+			4tfBCQhlKm47zYACTCsDRp8Y44CQfq8+eGnKOnmWyLc=
 			</data>
 		</dict>
 		<key>Headers/KVAUSPrivacy.h</key>
@@ -113,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UNjOjj9SQ+jgLgG0gUrfJvnGCJM=
+			OO3zbLf2Ax997sYiGDGULWaQiag=
 			</data>
 			<key>hash2</key>
 			<data>
-			vo1X1bBVngliMAg0NQzuuKHEnbLMr5lpUS8OinO4294=
+			A9ZHDybd72mbsKL6859BEx8LoiAIm1ruZZJhB2Ad2p0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

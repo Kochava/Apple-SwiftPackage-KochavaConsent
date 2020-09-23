@@ -23,6 +23,7 @@
 #endif
 
 #import <KochavaCore/KochavaCore.h>
+#import <KochavaUI/KochavaUI.h>
 
 #import <KochavaConsent/KVAConsentAuditEntry.h>
 #import <KochavaConsent/KVAConsentClient.h>

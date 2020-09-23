@@ -33,7 +33,7 @@
 /*!
  @class KVAConsentProduct
  
- @brief A class which defines a consentClient product.
+ @brief A class which defines a consent product.
  
  @discussion A product in this context generally refers to the result of a build.
  

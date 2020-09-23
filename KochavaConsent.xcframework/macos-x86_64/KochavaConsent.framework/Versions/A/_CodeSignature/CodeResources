@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		vQJwCPjbl1rb3dwQV3nvsxFLJus=
+		eBKejb3HEZKsuQBDh2lV5h8zbuo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmiK3P9N+KuZH81e6dPxoO+9iraWfR/GS9TIc11TiJU=
+			4tfBCQhlKm47zYACTCsDRp8Y44CQfq8+eGnKOnmWyLc=
 			</data>
 		</dict>
 		<key>Headers/KVAUSPrivacy.h</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vo1X1bBVngliMAg0NQzuuKHEnbLMr5lpUS8OinO4294=
+			A9ZHDybd72mbsKL6859BEx8LoiAIm1ruZZJhB2Ad2p0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VwUcbowOBz9qDsAO+KUxMeyeDP/EMkvom57OlDIxJ38=
+			zZOxORLjY4nU+b4IYGN92NcVJ7ly2Q+pvBYVBZOzU24=
 			</data>
 		</dict>
 	</dict>

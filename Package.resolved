@@ -7,7 +7,16 @@
         "state": {
           "branch": null,
           "revision": "08dbec1b6eefbbbd3ed0fd33052aea0bb1195af1",
-          "version": "4.0.0-beta.4"
+          "version": "4.0.0-beta.5"
+        }
+      },
+      {
+        "package": "KochavaUI",
+        "repositoryURL": "https://github.com/Kochava/Apple-SwiftPackage-KochavaUI",
+        "state": {
+          "branch": null,
+          "revision": "d2ccebe9b812089ca8ba84330f2ad1188aa1c286",
+          "version": "4.0.0-beta.5"
         }
       }
     ]
