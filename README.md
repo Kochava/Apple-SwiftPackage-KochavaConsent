@@ -18,6 +18,7 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 ## Dependencies
 
 * [KochavaCore](https://github.com/Kochava/Apple-SwiftPackage-KochavaCore)
+* [KochavaUI](https://github.com/Kochava/Apple-SwiftPackage-KochavaUI)
 
 ## Installation
 
