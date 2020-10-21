@@ -30,13 +30,13 @@ let package = Package(
         .package(
             name: "KochavaCore",
             url: "https://github.com/Kochava/Apple-SwiftPackage-KochavaCore",
-            from: "4.1.0"
+            from: "4.1.1"
         ),
         // .package(name: "KochavaUI", path: "./../Apple-SwiftPackage-KochavaUI")
         .package(
             name: "KochavaUI",
             url: "https://github.com/Kochava/Apple-SwiftPackage-KochavaUI",
-            from: "4.1.0"
+            from: "4.1.1"
         )
     ],
     targets:
