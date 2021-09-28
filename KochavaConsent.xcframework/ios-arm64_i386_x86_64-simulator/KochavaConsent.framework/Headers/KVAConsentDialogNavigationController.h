@@ -51,10 +51,7 @@
  
  @discussion Set this value to dismiss the view controller.
  */
-typedef void (^ KVAConsentDialogNavigationControllerDidCompleteBlock)
-(
-    KVAConsentDialogNavigationController * _Nonnull consentDialogNavigationController
-);
+typedef void (^ KVAConsentDialogNavigationControllerDidCompleteBlock) (KVAConsentDialogNavigationController * _Nonnull consentDialogNavigationController);
 
 
 
@@ -65,11 +62,7 @@ typedef void (^ KVAConsentDialogNavigationControllerDidCompleteBlock)
  
  @discussion Set this value to open the specified url.
  */
-typedef void (^ KVAConsentDialogNavigationControllerDidRequestToOpenURLBlock)
-(
-    KVAConsentDialogNavigationController * _Nonnull consentDialogNavigationController,
-    NSURL * _Nonnull url
-);
+typedef void (^ KVAConsentDialogNavigationControllerDidRequestToOpenURLBlock) (KVAConsentDialogNavigationController * _Nonnull consentDialogNavigationController, NSURL * _Nonnull url);
 
 
 
@@ -98,10 +91,7 @@ typedef void (^ KVAConsentDialogNavigationControllerDidRequestToOpenURLBlock)
  
  @param didCompleteBlock A block which is called when the navigation controller's lifecycle did complete.  Set this value to dismiss the view controller.
  */
-+ (nullable instancetype)consentDialogNavigationControllerWithDidRequestToOpenURLBlock:
-    (nonnull KVAConsentDialogNavigationControllerDidRequestToOpenURLBlock)didRequestToOpenURLBlock
-    didCompleteBlock: (nonnull KVAConsentDialogNavigationControllerDidCompleteBlock)didCompleteBlock
-    NS_SWIFT_NAME(init(didRequestToOpenURLBlock:didCompleteBlock:));
++ (nullable instancetype)consentDialogNavigationControllerWithDidRequestToOpenURLBlock:(nonnull KVAConsentDialogNavigationControllerDidRequestToOpenURLBlock)didRequestToOpenURLBlock didCompleteBlock:(nonnull KVAConsentDialogNavigationControllerDidCompleteBlock)didCompleteBlock  NS_SWIFT_NAME(init(didRequestToOpenURLBlock:didCompleteBlock:));
 
 
 

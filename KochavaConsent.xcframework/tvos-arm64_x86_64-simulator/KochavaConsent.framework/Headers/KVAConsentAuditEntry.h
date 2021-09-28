@@ -48,8 +48,7 @@
  
  @brief Adds a token.
  */
-- (void)addEntry:(nonnull KVAConsentAuditEntry *)token
-    NS_SWIFT_NAME(addEntry(_:));
+- (void)addEntry:(nonnull KVAConsentAuditEntry *)token NS_SWIFT_NAME(addEntry(_:));
 
 
 
@@ -93,8 +92,7 @@
  
  @param textString A string of text.
  */
-+ (void)addWithTextString:(nonnull NSString *)textString
-    NS_SWIFT_NAME(add(withTextString:));
++ (void)addWithTextString:(nonnull NSString *)textString NS_SWIFT_NAME(add(withTextString:));
 
 
 

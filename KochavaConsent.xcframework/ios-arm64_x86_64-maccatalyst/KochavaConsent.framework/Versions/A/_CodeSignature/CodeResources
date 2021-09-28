@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		KW0iR9x6TgaedhI4j44kqdSM96o=
+		TsHRdITmwZNKWHXef46aDG/Uivo=
 		</data>
 		<key>Resources/KVAConsentDialogViewController.nib</key>
 		<data>
-		SQsQZFwHhe+ICsfGmWQYS6rWjfo=
+		CIhsRhe9XD5Jpj6De2eauUz4ro8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,28 +19,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kpE4C4N+4Pqc+Oygw5w7ARJHzLFJgizwsE92RmMe3QE=
+			fuhtoXzc/6/vQvN3yo9D+w9Q7MJ+o60pETtZS9kk1nA=
 			</data>
 		</dict>
 		<key>Headers/KVAConsentClient.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jsaPivIUv0CARHTKDmoO5TIcNXUDojP9qiF/l6Ex6K0=
+			5RMBXnNSzyeooew6ovEmqUHujtI6alUG9tFx0iqgptc=
 			</data>
 		</dict>
 		<key>Headers/KVAConsentConfiguration.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8GVeaUbrRqojqUBKNWTm3uiB599wLpr0jyx2xJ0o7c=
+			uRe6nCHOsm2M46lsDLCYvybIuRSBph0+h0oPlPQb37s=
 			</data>
 		</dict>
 		<key>Headers/KVAConsentDialogNavigationController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WN9OP0ygUCAwXxY0GoGTmbisv+V/DYYOojWHUYnROYo=
+			XGvNzSIGZiy4Mk5XtCZ2Ir+OBoy0BHfFeNbbjPu0cAA=
 			</data>
 		</dict>
 		<key>Headers/KVAConsentProduct.h</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u8gIKziY6W9WU9qPFCxE67bv/UnkQlOf0ILUogDeMvg=
+			rgunGVXQHo+2i/fLDxs4XfuBO5fbGri/nn39T4yUfo4=
 			</data>
 		</dict>
 		<key>Resources/KVAConsentDialogViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7KctwHJkylEOQuAqIZeqFJl3Pji2aHa2boxSqdKloI0=
+			6+95HzfTQsn55+67ko7HmG4aDYD7t3Uy7s315Afu5NY=
 			</data>
 		</dict>
 	</dict>

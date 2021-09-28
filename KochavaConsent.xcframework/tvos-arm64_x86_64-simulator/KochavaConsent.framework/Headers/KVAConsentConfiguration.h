@@ -78,8 +78,7 @@
  
  @brief Returns a boolean indicating if a mode is currently present.
  */
-- (BOOL)modePresentWithNameString:(nonnull NSString *)nameString
-    NS_SWIFT_NAME(modePresent(withNameString:));
+- (BOOL)modePresentWithNameString:(nonnull NSString *)nameString NS_SWIFT_NAME(modePresent(withNameString:));
 
 
 
