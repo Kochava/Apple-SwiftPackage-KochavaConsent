@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/Kochava/Apple-SwiftPackage-KochavaCore",
         "state": {
           "branch": null,
-          "revision": "f417ad102bd3bbde4668f5e23a07591f19eb8d3e",
-          "version": "5.0.0"
+          "revision": "0eced016bd137bee58335768d84d0f5e7346d523",
+          "version": "5.1.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/Kochava/Apple-SwiftPackage-KochavaUI",
         "state": {
           "branch": null,
-          "revision": "8772f0e4454b9fe1dfe2fce31d56f0450cb3712e",
-          "version": "5.0.0"
+          "revision": "6c6d9d31e2226d8bfccbde620fd673388af46f4a",
+          "version": "5.1.0"
         }
       }
     ]
