@@ -5,8 +5,8 @@ import XCTest
 
 
 
-@testable import KochavaUI
-@testable import KochavaConsent
+import KochavaUI
+import KochavaConsent
 
 
 
