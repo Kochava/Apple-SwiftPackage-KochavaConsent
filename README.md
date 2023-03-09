@@ -8,17 +8,17 @@
 
 The KochavaConsent swift package is an optional module within the Kochava SDK providing management of user consent.  This includes support for CCPA and GDPR.
 
-The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C and Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
+The Kochava SDK is a lightweight and easy to integrate SDK written in Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
 
 ## Built on
 
-* Xcode 13.3.1
+* Xcode 14.1
 
 ## Platforms
 
-* iOS 10.3
+* iOS 12.4
 * macOS 10.14
-* tvOS 10.3
+* tvOS 12.4
 * watchOS 5.2
 
 ## Dependencies
@@ -32,7 +32,7 @@ KochavaConsent is a Swift package.  To install it, simply add this package as a 
 
 In Xcode, see File > Swift Packages > Add Package Dependency ... > and enter the URL for this package repository.
 
-[Kochava Apple SDK Integration](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
+[Kochava Apple SDK Integration](https://support.kochava.com/sdk-integration/ios-sdk-integration/)
 
 ## Author
 
